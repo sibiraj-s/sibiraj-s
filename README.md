@@ -18,4 +18,4 @@
 * [🔊 𝕏](https://sibiraj.dev/x)
 * [📙 dev](https://dev.to/sibiraj)
 
-If you like my work and interested in supporting me me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/sibiraj-s)
+If you like my work and interested in supporting me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/sibiraj-s)
